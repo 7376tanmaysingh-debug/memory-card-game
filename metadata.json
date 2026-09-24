@@ -1,0 +1,6 @@
+{
+  "name": "Memory Match",
+  "description": "Engaging memory card game with smooth 3D flips, combo multipliers, live timer, customizable themes, and local Room leaderboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
